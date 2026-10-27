@@ -389,4 +389,4 @@ VITE_SOCKET_URL=http://localhost:5000
 | extension_type must be valid | DB CHECK + controller |
 
 
-# Built with Love By LikhithaJagadeesh
+# Built with Love By Shubha K C
